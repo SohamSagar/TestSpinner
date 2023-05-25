@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestSpinner</string>
+    <string name="select">select</string>
+    <string name="spinner_hint_text">spinner_hint_text</string>
+    <string-array name="your_string_array">
+        <item>Hint...</item>
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+    </string-array>
+</resources>
